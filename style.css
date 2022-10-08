@@ -38,12 +38,3 @@
     opacity: 0.8;
     
 }
-.footer {
-   position: fixed;
-   height: 50px;
-   background-color: gray;
-   bottom: 0px;
-   left: 0px;
-   right: 0px;
-   margin-bottom: 0px;
-}
